@@ -1,0 +1,2 @@
+javac DiningPhilosophers.java
+java DiningPhilosopher
